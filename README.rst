@@ -3,12 +3,14 @@ Internet Sabotage
 
 Python package to simulate internet failures for testing purposes.
 
-Instalation
+This fork fix error in original repository.
+
+Installation
 -----------
 
 .. code:: shell
 
-    $ pip install internet-sabotage
+    $ pip install internet-sabotage2
 
 Usage
 -----
