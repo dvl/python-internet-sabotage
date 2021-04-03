@@ -7,7 +7,7 @@ with open('README.rst', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='internet-sabotage',
+    name='internet-sabotage2',
     version='0.1.2',
     description='Disable network connection for Testing',
     long_description=long_description,
