@@ -6,7 +6,7 @@ Python package to simulate internet failures for testing purposes.
 This fork fix error in original repository.
 
 Installation
------------
+------------
 
 .. code:: shell
 
