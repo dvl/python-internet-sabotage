@@ -3,7 +3,7 @@ Internet Sabotage
 
 Python package to simulate internet failures for testing purposes.
 
-This fork fix error in original repository.
+This fork fix error in original repository. The library is working at 100%.
 
 Installation
 ------------
