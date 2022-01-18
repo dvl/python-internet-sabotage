@@ -29,5 +29,5 @@ class no_connection(ContextDecorator):
     def __enter__(self):
         self._disable_socket()
 
-    def __exit__(self):
+    def __exit__(self, *exc_details):
         self._enable_socket()
